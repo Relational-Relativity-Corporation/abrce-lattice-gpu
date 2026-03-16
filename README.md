@@ -9,7 +9,7 @@
 
 ## Development Protocol
 
-These repositories follow the ABRCE-ROAP development protocol.
+This repository follows the ABRCE-ROAP development protocol.
 ROAP defines the admissibility requirements that must be satisfied
 before operators are implemented or simulations are executed.
 
